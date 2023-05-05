@@ -1,0 +1,19 @@
+.first {
+background-color: azure;
+}
+.second {
+    background-color: aquamarine;
+}
+.third {
+    background-color: blanchedalmond;
+}
+.ul-div {
+    width: 60%;
+    height: auto;
+}
+ing-div {
+    background-color: aquamarine;
+    font-family:'Times New Roman', Times, serif;
+    width: 60%;
+    border: 2px red;
+}
